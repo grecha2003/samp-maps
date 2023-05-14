@@ -1,0 +1,1059 @@
+{
+	"table": "business",
+	"rows":
+	[
+		{
+			"id": 1,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "DeliciousBakery1",
+			"upgrades": 5,
+			"employees": 15,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 2,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "TastyBistro2",
+			"upgrades": 3,
+			"employees": 18,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 3,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "HealthyCafe3",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 4,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "FastFood4",
+			"upgrades": 6,
+			"employees": 10,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 5,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "Pizzeria5",
+			"upgrades": 4,
+			"employees": 12,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 6,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "BurgerJoint6",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 7,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "SushiBar7",
+			"upgrades": 3,
+			"employees": 14,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 8,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "VeganSpot8",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 9,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "GrillHouse9",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 10,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "Seafood10",
+			"upgrades": 4,
+			"employees": 12,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 11,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "DessertShop11",
+			"upgrades": 5,
+			"employees": 10,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 12,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "BreakfastPlace12",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 13,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "SteakHouse13",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 14,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "SaladBar14",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 15,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "CoffeeShop15",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 16,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "Bakery16",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 17,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "DonutShop17",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 18,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "GourmetSpot18",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 19,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "PastaPlace19",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 20,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Bookstore20",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 21,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Grocery21",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 22,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Clothing22",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 23,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Electronics23",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 24,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Hardware24",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 25,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "ToyStore25",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 26,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "MusicStore26",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 27,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Furniture27",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 28,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Pharmacy28",
+			"upgrades": 4,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 29,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "SportsGear29",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 30,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "PetShop30",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 31,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "CityGas31",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 32,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "HighwayGas32",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 33,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "EcoFuel33",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 34,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "QuickGas34",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 35,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "SafeGas35",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 36,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "EasyGas36",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 37,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "FastGas37",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 38,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "AutoFix38",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 39,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "BikeRepair39",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 40,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "MotoGarage40",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 41,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "QuickFix41",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 42,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "ReliableRepair42",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 43,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "ServiceStation43",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 44,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "SpeedyDealer44",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 45,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "ReliableAuto45",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 46,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "QuickAuto46",
+			"upgrades": 4,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 47,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "EcoCars47",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 48,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "LuxuryCars48",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 49,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "FamilyCars49",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 50,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "SecureArmory50",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 51,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "ReliableFirearms51",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 52,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "QuickDrawGuns52",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 53,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "PrecisionArmory53",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 54,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "SafeShots54",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 55,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "TargetFirearms55",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 56,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "DefenceArmory56",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 57,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "SportingGuns57",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 58,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "HuntingFirearms58",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 59,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "CollectorArmory59",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 60,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "ShootingRange60",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 61,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "DeliciousBakery61",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 62,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "TastyBistro62",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 63,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "HealthyCafe63",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 64,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "FastFood64",
+			"upgrades": 4,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 65,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "Pizzeria65",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 66,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "BurgerJoint66",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 67,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "SushiBar67",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 68,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Bookstore68",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 69,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Grocery69",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 70,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Clothing70",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 71,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "CityGas71",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 72,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "HighwayGas72",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 73,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "EcoFuel73",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 74,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "AutoFix74",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 75,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "BikeRepair75",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 76,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "MotoGarage76",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 77,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "QuickFix77",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 78,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "ReliableRepair78",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 79,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "SpeedyDealer79",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 80,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "ReliableAuto80",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 81,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "QuickAuto81",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 82,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "EcoCars82",
+			"upgrades": 4,
+			"employees": 10,
+			"coords": "(40.71274.005974)"
+		},
+		{
+			"id": 83,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "LuxuryCars83",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 84,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "FamilyCars84",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 85,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "SecureArmory85",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 86,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "ReliableFirearms86",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 87,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "QuickDrawGuns87",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 88,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "PrecisionArmory88",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 89,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "SafeShots89",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 90,
+			"owner": 737871749,
+			"type": "GUN",
+			"name": "TargetFirearms90",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 91,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "DeliciousBakery91",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 92,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "TastyBistro92",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 93,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "HealthyCafe93",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 94,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "FastFood94",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 95,
+			"owner": 737871749,
+			"type": "FOOD",
+			"name": "Pizzeria95",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 96,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Bookstore96",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 97,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Grocery97",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 98,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Clothing98",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 99,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Electronics99",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 100,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Hardware100",
+			"upgrades": 4,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 101,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "ToyStore101",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 102,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "MusicStore102",
+			"upgrades": 6,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 103,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Furniture103",
+			"upgrades": 7,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 104,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "Pharmacy104",
+			"upgrades": 6,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 105,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "SportsGear105",
+			"upgrades": 5,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 106,
+			"owner": 737871749,
+			"type": "STORE",
+			"name": "PetShop106",
+			"upgrades": 4,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 107,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "CityGas107",
+			"upgrades": 5,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 108,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "HighwayGas108",
+			"upgrades": 6,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 109,
+			"owner": 737871749,
+			"type": "GAS",
+			"name": "EcoFuel109",
+			"upgrades": 7,
+			"employees": 10,
+			"coords": "(40.712776,-74.005974)"
+		},
+		{
+			"id": 110,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "AutoFix110",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(34.052235,-118.243683)"
+		},
+		{
+			"id": 111,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "BikeRepair111",
+			"upgrades": 5,
+			"employees": 14,
+			"coords": "(51.507351,-0.127758)"
+		},
+		{
+			"id": 112,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "MotoGarage112",
+			"upgrades": 4,
+			"employees": 20,
+			"coords": "(35.689487,139.691711)"
+		},
+		{
+			"id": 113,
+			"owner": 737871749,
+			"type": "STO",
+			"name": "QuickFix113",
+			"upgrades": 5,
+			"employees": 18,
+			"coords": "(48.856613,2.352222)"
+		},
+		{
+			"id": 114,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "SpeedyDealer114",
+			"upgrades": 6,
+			"employees": 12,
+			"coords": "(55.755826,37.617600)"
+		},
+		{
+			"id": 115,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "ReliableAuto115",
+			"upgrades": 7,
+			"employees": 15,
+			"coords": "(37.774929,-122.419418)"
+		},
+		{
+			"id": 116,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "QuickAuto116",
+			"upgrades": 6,
+			"employees": 17,
+			"coords": "(52.520008,13.404954)"
+		},
+		{
+			"id": 117,
+			"owner": 737871749,
+			"type": "AUTO",
+			"name": "EcoCars117",
+			"upgrades": 5,
+			"employees": 20,
+			"coords": "(34.052235,-118.243683)"
+		}
+	]
+}

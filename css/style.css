@@ -916,10 +916,13 @@ body.lk {
 }
 
 .shaman-tooltip {
-  width: 16px;
-  height: 16px;
   position: absolute;
   display: none;
+  z-index: 5;
+  background: rgba(0, 0, 0, .5);
+  border-radius: 1em;
+  padding: 1em;
+  width: max-content;
 }
 
 div:hover > .shaman-tooltip {
